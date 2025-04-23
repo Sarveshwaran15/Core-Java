@@ -1,0 +1,5 @@
+In order to instantiate a class we need "new" keyword.
+
+i.e,
+    class_name reference_variable = new class_name();
+
