@@ -1,0 +1,23 @@
+Definition :
+  A class is a named group of properties and functions.
+  Always starts with capital letter in java.
+  A class is a logical construct.
+
+pseudo :
+  class Student{
+    int rollno;
+    String name;
+    float marks;
+  }
+
+A class is a template of an object.
+An object is a instance of class.
+
+class - > logical construct
+object - > physical reality
+
+objects are stored in heap memory.
+reference variables are stored in stack memory.
+
+what is instance variables?
+  Variables which are inside the object are known as instance varaibles.
