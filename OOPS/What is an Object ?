@@ -1,0 +1,5 @@
+In object-oriented programming, an object is an entity that has two characteristics (states and behavior). 
+Some of the real-world objects are book, mobile, table, computer, etc. 
+An object is a variable of the type class, it is a basic component of an object-oriented programming system. 
+A class has the methods and data members (attributes), these methods and data members are accessed through an object.
+Thus, an object is an instance of a class.
