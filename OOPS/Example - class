@@ -1,0 +1,17 @@
+package classfile;
+
+public class Student {
+	int rno;
+	String name;
+	float marks;
+	Student(int rno,String name,float marks)
+	{
+		this.rno=rno;
+		this.name=name;
+		this.marks=marks;
+	}
+	public void display()
+	{
+		System.out.println(this.rno+" "+this.name+" "+this.marks);
+	}
+}
