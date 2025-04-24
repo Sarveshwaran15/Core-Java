@@ -1,0 +1,22 @@
+package classfile;
+
+public class Student {
+	int rno;
+	String name;
+	float marks;
+	Student(int rno,String name,float marks)
+	{
+		this.rno=rno;
+		this.name=name;
+		this.marks=marks;
+	}
+	public void display()
+	{
+		System.out.println(this.rno+" "+this.name+" "+this.marks);
+	}
+	public static void main(String[] args)
+	{
+		Student student1=new Student(101,"Rahul",87.4f);
+		System.out.println(student1.rno);
+	}
+}
