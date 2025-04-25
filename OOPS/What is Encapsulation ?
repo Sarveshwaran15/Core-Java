@@ -1,0 +1,4 @@
+In an object-oriented approach, encapsulation is a process of binding the data members (attributes) and methods together. 
+The encapsulation restricts direct access to important data. 
+The best example of the encapsulation concept is making a class where the data members are private and methods are public to access through an object. 
+In this case, only methods can access those private data.
