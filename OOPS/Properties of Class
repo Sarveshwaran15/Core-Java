@@ -1,0 +1,5 @@
+A class does not take any byte of memory.
+A class is just like a real-world entity, but it is not a real-world entity. It's a blueprint where we specify the functionalities.
+A class contains mainly two things: Methods and Data Members.
+A class can also be a nested class.
+Classes follow all of the rules of OOPs such as inheritance, encapsulation, abstraction, etc.
